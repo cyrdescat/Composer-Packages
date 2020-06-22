@@ -8,5 +8,10 @@
             "name": "Cyril",
             "email": "cydescat@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
 }
