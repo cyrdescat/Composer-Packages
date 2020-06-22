@@ -1,0 +1,12 @@
+{
+    "name": "caryl/composer-packages",
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Cyril",
+            "email": "cydescat@gmail.com"
+        }
+    ]
+}
